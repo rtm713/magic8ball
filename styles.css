@@ -1,0 +1,42 @@
+body{
+    background-image: url(./images/pexels-felixmittermeier-956981.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+
+#mainCard {
+    background-color: rgb(255, 255, 255, .7);
+    border-radius: 5%;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+hr {
+    width: 70%;
+    margin-bottom: -5px;
+}
+
+#inputBox {
+    width: 80%;
+    margin: auto;
+}
+
+svg{
+    margin: auto;
+}
+
+#answerBox {
+    display: flex;
+}
