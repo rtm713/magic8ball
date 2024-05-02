@@ -13,6 +13,7 @@ body{
     flex-direction: column;
     width: 40%;
     margin: auto;
+    margin-top: 20px;
 }
 
 h1 {
@@ -57,4 +58,12 @@ svg{
 
 .red {
     color: red;
+}
+
+@media (max-width:500px) {
+
+    #mainCard {
+        width: 90%;
+    }
+
 }
