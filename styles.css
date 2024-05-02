@@ -39,4 +39,22 @@ svg{
 
 #answerBox {
     display: flex;
+    font-weight: 700;
+    margin: auto;
+}
+
+#textBox {
+    margin-left: 5px;
+}
+
+.green {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.red {
+    color: red;
 }
